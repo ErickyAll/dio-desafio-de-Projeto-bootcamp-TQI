@@ -1,2 +1,2 @@
-# dio-desafio-git-hub-bootcamp-TQI
+# Repositório Desafio Dio - Git/Github
 Primeiro desafio de projeto do Bootcamp - Git/Github
