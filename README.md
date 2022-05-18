@@ -1,5 +1,9 @@
-# Repositório Desafio Dio - Git/Github
-Primeiro desafio de projeto do Bootcamp - Git/Github
+# Repositório Desafio Dio - Meus Aprendizados
 
-## Links Utéis
+> ## Pensamento Computacional
+
+> - Primeiro desafio de projeto do _Bootcamp_ - **_Git/Github_**
+
+### Links Utéis
+
 [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
